@@ -7,6 +7,8 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SohailAQ)](https://github.com/SohailAQ/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAQ)](https://github.com/SohailAQ/github-readme-stats)
+
 
 <!---
 SohailAQ/SohailAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
