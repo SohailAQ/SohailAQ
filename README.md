@@ -4,12 +4,10 @@
 - 💞️ I’m looking to collaborate on Python-Django and PHP-Laravel
 - 📫 Reach me at sohail.developes@gmail.com
 
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SohailAQ)](https://github.com/SohailAQ/github-readme-stats) -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SohailAQ&show_icons=true&theme=Gradient)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SohailAQ&show_icons=true&theme=synthwave)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAQ)](https://github.com/SohailAQ/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAQ)](https://github.com/SohailAQ/github-readme-stats) -->
 
 
 <!---
