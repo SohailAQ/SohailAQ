@@ -1,4 +1,4 @@
-### Hey there, I'm Sohail!
+### Hey there, I'm Sohail! Thanks for stopping by. 🖖🏽
 I'm a Full Stack Software Developer.
 
 <!---
